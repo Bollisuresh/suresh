@@ -1,2 +1,10 @@
 
-dnksfbckw
+#include <stdio.h> // Library needed for input/output functions like printf
+
+int main() {
+    // printf is used to print text on the screen
+    printf("Hello, World!\n"); 
+    
+    return 0; // Signals that the program executed successfully
+}
+
